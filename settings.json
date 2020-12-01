@@ -8,17 +8,26 @@
         },
         "default": {
             "comments": {
-                "format": "[{timestamp[relative]}] <{commenter[display_name]}> {message[body]}",
-                "ignore_new_messages": false,
+                "action_format": "[{timestamp[relative]}] *{commenter[display_name]} {message[body]}]",
+                "badges": {
+                    "admin": "!",
+                    "bits": "$",
+                    "broadcaster": "~",
+                    "global_mod": "*",
+                    "moderator": "@",
+                    "premium": "+",
+                    "staff": "&",
+                    "subscriber": "%",
+                    "turbo": "+"
+                },
+                "format": "[{timestamp[relative]}] <{commenter[badge]}{commenter[display_name]}> {message[body]}",
+                "multiple_badges": false,
                 "timestamp": {
-                    "relative": "%X"
+                    "relative": "%x"
                 }
             },
             "output": {
-                "format": "{user_name}/{id} - {title} ({created_at}).txt",
-                "timestamp": {
-                    "absolute": "%x"
-                }
+                "format": "{user_name}/{id} - {title} ({created_at}).txt"
             }
         },
         "irc": {
@@ -42,12 +51,27 @@
                 }
             },
             "output": {
-                "format": "{user_name}/{id} - {title} ({created_at}).log"
+                "format": "{user_name}/{id} - {title} ({created_at}).txt"
             }
         },
         "json": {
             "output": {
                 "format": "{user_name}/{id} - {title} ({created_at}).json"
+            }
+        },
+        "old_default": {
+            "comments": {
+                "format": "[{timestamp[relative]}] <{commenter[display_name]}> {message[body]}",
+                "ignore_new_messages": false,
+                "timestamp": {
+                    "relative": "%X"
+                }
+            },
+            "output": {
+                "format": "{user_name}/{id} - {title} ({created_at}).txt",
+                "timestamp": {
+                    "absolute": "%x"
+                }
             }
         },
         "srt": {
