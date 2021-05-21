@@ -1,0 +1,103 @@
+[0:00:02] <sweetestbeefs> ES6 will come out when todd coward dies
+[0:00:04] <%shurtal> Doin' Namazu beast tribe quests and i just really like his whiskers
+[0:00:18] <%WhereIsWill> nvenc (final)
+[0:00:41] <%SomeSageAdvice> that'd be interesting
+[0:00:46] <+Sendrak70> reloaded, no 1080 available :(
+[0:00:49] <%AyotoCorp> Might as well for your own purposes if anything
+[0:00:50] <%Arweynn> I'm not seeing 1080 source as an option on twitch atm
+[0:00:50] <jamox1> There’s like 6 vods so far rn I think
+[0:00:52] <sweetestbeefs> looks so much better holy shit
+[0:00:54] <%AyotoCorp> Also I still only see 720
+[0:00:59] <Tampaoster> But it still stutters
+[0:01:01] <%OfficioPrefectusCorgi> still 720p
+[0:01:01] <+Gamblor69> No 1080 for me
+[0:01:01] <%SomeSageAdvice> wow this looks really smooth and i can see a bunch of the detail
+[0:01:02] <jamox1> That’s smooth
+[0:01:06] <+Sendrak70> There we go, 4 reloads did the trick
+[0:01:08] <Jetsfantasy> Reloaded after you came live, 1080P source is up
+[0:01:09] <+Midashu> always seems to take 5 minutes from start of stream for it to get back to 1080p60
+[0:01:15] <%Arweynn> this time it's smooth as butter though
+[0:01:18] <+Ominnous> bitrate: killl meeeeeeeeee
+[0:01:25] <+Gamblor69> Now ive got 1080
+[0:01:27] <%SomeSageAdvice> like its a little blurry but like i can tell what stuff is now
+[0:01:30] <%Arweynn> looks like shit in 720 with artifactin though
+[0:01:36] <%AyotoCorp> Bit of stutter just then but much better
+[0:01:39] <sweetestbeefs> theres no 1080p option though pat
+[0:01:49] <%SilvaChariot0133> yeah that mountain pan was rough
+[0:01:54] <%its_just_coach> refresh for 1080
+[0:01:59] <+Sendrak70> @sweetestbeefs Reload, it will pop up. Its there
+[0:02:01] <sweetestbeefs> it looks better overall
+[0:02:03] <jamox1> I can’t tell if that was stutter or weird camera
+[0:02:05] <%Ne1son> @sweetestbeefs need to refresh multiple times
+[0:02:10] <TurtlesAndTentacles> No Pat Face?
+[0:02:11] <%Arweynn> ok NOW I reload and 1080 is in the options
+[0:02:12] <%SomeSageAdvice> ahhh for some reason it started lagging when it was crossing the ocean
+[0:02:14] <+shry7> some stutter yeah
+[0:02:17] <+Sovspot> you should stop being a pussy and give this game another shot.
+[0:02:19] <%AyotoCorp> It seems like it drops when the camera rotates
+[0:02:25] <%Livelinne> Livelinne subscribed at Tier 1. They've subscribed for 9 months, currently on a 9 month streak! 
+[0:02:26] <%AyotoCorp> If the camera moves in a straight line it's fine
+[0:02:29] <Jetsfantasy> Source looked good, but yeah stutters were rough
+[0:02:31] <%LegendGHT> total warhammer?
+[0:02:44] <sweetestbeefs> okay yeah just had to refresh lol
+[0:02:46] <sweetestbeefs> thanks chat
+[0:02:52] <%SomeSageAdvice> he already has a schedule set lol @Sovspot
+[0:02:56] <jamox1> 👍
+[0:02:58] <knotsundownsyndrome> @PatStaresAt hope your day's been good fella
+[0:03:05] <+Midashu> NVENC overall does a better job at lower cost. From my understanding you'd need a beefier CPU and higher image quality encoding settings to get better x264 quality.
+[0:03:07] <%Treuan> So far so good
+[0:03:17] <%SomeSageAdvice> this is a game that if he does go back to, it would have to be during a lull in videogames coming out
+[0:03:25] <%AyotoCorp> I can make out individual units, so it's a huge step up
+[0:03:26] <%TrafficCohen> So Pat, who do you like between Slaanesh and Nurgle? Are you a weird creepy sex pest or a Slaanesh fan?
+[0:03:28] <%OfficioPrefectusCorgi> Wow
+[0:03:33] <%Arweynn> yeah this looks the best by far so far
+[0:03:38] <%LegendGHT> gatdamn your computer does good
+[0:03:42] <%baka_sugoi> oWo
+[0:03:46] <Jetsfantasy> Do you have x265 support or does twitch not support that
+[0:03:46] <jamox1> Yeah this looks a lot better
+[0:03:49] <%SomeSageAdvice> huh the pan there didnt drop below 60
+[0:03:49] <+cgreene64> what is this game?
+[0:03:50] <%OfficioPrefectusCorgi> Oh wow
+[0:03:52] <%SomeSageAdvice> nice
+[0:03:55] <%WhereIsWill> looks great!
+[0:03:55] <+shry7> crispy
+[0:03:59] <sweetestbeefs> better!
+[0:03:59] <Ranryu692> this definitely looks better
+[0:04:01] <%Reveresao> warhammer?
+[0:04:02] <%SilvaChariot0133> SeemsGood
+[0:04:06] <sweetestbeefs> yay
+[0:04:06] <%Treuan> Seeya
+[0:04:10] <%OfficioPrefectusCorgi> Nice Test
+[0:04:15] <jamox1> @cgreene64 Total Warhammer 2
+[0:04:21] <%JJCheeker> Thanks for the testing stream
+[0:04:22] <RemnanTaka> What happened to Hitman?
+[0:04:34] <+cgreene64> @jamox1 ty!
+[0:04:50] <%SomeSageAdvice> @RemnanTaka he's just doing an encoder test
+[0:04:53] <%Mrbaconator> pat, what does NVENC stand for
+[0:04:55] <%TrafficCohen> Do noises
+[0:04:57] <%Ranryu692> @remnantaka he's just messing with settings, not actually streaming a hame
+[0:04:58] <RemnanTaka> oh i see
+[0:04:58] <Jetsfantasy> Ooh, good to know that exists
+[0:05:00] <%TrafficCohen> Dog noises
+[0:05:02] <+Midashu> gj Pat
+[0:05:04] <LVL1_Scumbag> Need stream juice
+[0:05:06] <%SomeSageAdvice> and we appreciate YOU Pat
+[0:05:06] <+Gamblor69> Anytime my dude
+[0:05:07] <%SilvaChariot0133> o/
+[0:05:08] <%TrafficCohen> Have a good day
+[0:05:08] <%Arweynn> see you on monday
+[0:05:08] <%DiscoMatador> demand juice
+[0:05:10] <TurtlesAndTentacles> Nuuuuuuu
+[0:05:11] <%Mrbaconator> we appreciate you too pat
+[0:05:13] <+Sendrak70> Holy shit, I just realized that the sound I hear in the background is Gief...
+[0:05:13] <+alternative_flu> peace
+[0:05:14] <%shurtal> cta
+[0:05:15] <%YakumoYomi> Good business, Pattycakes
+[0:05:15] <%MidnightBurst12> good stuff
+[0:05:15] <RemnanTaka> damn!
+[0:05:16] <%shurtal> cya*
+[0:05:16] <%Ranryu692> you too!
+[0:05:16] <+JJCheeker> See you tomorrow'
+[0:05:16] <sweetestbeefs> bye!
+[0:05:18] <TurtlesAndTentacles> Pat my heart
+[0:05:18] <jamox1> Have a good one Pat!
